@@ -1,4 +1,4 @@
-FROM kummallinen/eclipse-build-tools:latest
+FROM kummallinen/eclipse-build-tools:latest-openjdk8
 
 USER root
 
