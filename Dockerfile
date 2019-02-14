@@ -1,4 +1,4 @@
-FROM cloudbees/java-build-tools
+FROM kummallinen/eclipse-build-tools:latest
 
 USER root
 
